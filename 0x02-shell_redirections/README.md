@@ -1,1 +1,1 @@
-a script that removes all letters c and C from input
+a script that displays the 10 newest files in the current directory

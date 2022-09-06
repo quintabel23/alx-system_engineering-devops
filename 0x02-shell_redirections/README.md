@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly
+Display all lines of the file 

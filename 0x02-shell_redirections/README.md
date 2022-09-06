@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+a shell script that creates a file named exactly

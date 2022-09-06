@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files (not the directories)
+a shell script that creates a file named exactly

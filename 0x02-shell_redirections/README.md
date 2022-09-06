@@ -1,1 +1,1 @@
-a script that deletes all the regular files (not the directories)
+Display lines containing the pattern “root” and 3 lines after them in the file

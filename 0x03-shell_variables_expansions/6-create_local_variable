@@ -1,2 +1,2 @@
 #!/bin/basH
-BEST="SCHOOL"
+export BEST="SCHOOL"

@@ -1,1 +1,1 @@
-a script that creates a new local variable
+a script that prints the result of the addition of 128
